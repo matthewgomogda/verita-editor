@@ -1,0 +1,21 @@
+verita-editor/
+  src/
+    app/
+      layout.tsx
+      page.tsx
+      globals.css
+    components/
+      Editor.tsx
+      BlockView.tsx
+      SlashMenu.tsx
+      InlineToolbar.tsx
+    lib/
+      blocks.ts
+      storage.ts
+      keymap.ts
+      dom.ts
+  tailwind.config.ts
+  postcss.config.mjs
+  next.config.ts
+  package.json
+  tsconfig.json
