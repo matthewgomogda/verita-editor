@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --page-max: 900px;
+  --gutter: 44px;
+  --block-py: 10px;
+  --radius: 12px;
+  --muted: 120 120 120;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+::selection {
+  background: rgba(0, 0, 0, 0.12);
+}
+
+.editor-title {
+  font-size: 42px;
+  line-height: 1.12;
+  font-weight: 750;
+  letter-spacing: -0.02em;
+}
+
+.notion-text {
+  font-size: 16px;
+  line-height: 1.55;
+}
+
+kbd {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-size: 12px;
+}
