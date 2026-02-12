@@ -1,4 +1,4 @@
-1) Reference component
+## 1) Reference component
 
 A Notion-like document editor surface: title + block-based editor with hover handles, slash-command insertion, inline formatting, and smooth keyboard navigation.
 
