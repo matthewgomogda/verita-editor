@@ -2,7 +2,7 @@
 
 A Notion-like document editor surface: title + block-based editor with hover handles, slash-command insertion, inline formatting, and smooth keyboard navigation.
 
-2) What’s implemented
+## 2) What’s implemented
 
 Block-based editor (paragraph, headings, lists, code)
 
@@ -14,10 +14,6 @@ Inline toolbar on selection (basic formatting)
 
 LocalStorage persistence
 
-3) Setup
-npm install
-npm run dev
-
-4) Notes on fidelity
+3) Notes
 
 Focused on precise spacing, hover states, typography hierarchy, menu styling, and interaction parity: “small number of components, high quality.”
