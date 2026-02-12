@@ -14,6 +14,6 @@ Inline toolbar on selection (basic formatting)
 
 LocalStorage persistence
 
-3) Notes
+## 3) Notes
 
 Focused on precise spacing, hover states, typography hierarchy, menu styling, and interaction parity: “small number of components, high quality.”
